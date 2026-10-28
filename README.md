@@ -1,44 +1,22 @@
+## Hi, I'm Marat 👋
 
+Fullstack AI engineer: **React / Next.js / TypeScript** on the frontend, **NestJS / PostgreSQL** on the backend, and LLM tooling in between.
 
+- 🤖 Orchestrate AI agents for dev teams: custom skills, plugin marketplaces, agents wired into Jira/Confluence, Figma and GitLab via MCP
+- 🔎 Semantic search on local embeddings + pgvector (HNSW) — no external API calls
+- 🌐 SSR web clients, accessible UIs, analytics pipelines (GTM → BigQuery)
 
-# Hey there :wave:, I'm Marat, it's nice to meet you!
+**Stack:** TypeScript · React · Next.js · Redux Toolkit / RTK Query · Vue · React Native · Flutter · NestJS · Express · PostgreSQL · pgvector · Kysely · Docker · Claude Code / MCP
 
-### A few things about me
-- I am frontend web developer doing all things creative to make the web a more unique and awesome place.
-- Coffee, music, movies and games are my happy places 
-- I enjoy bringing a static design or idea to life and learning new technologies.
-- Skilled in creating software systems on JavaScript, React, Redux, NestJS, SQL.
+### Featured projects
 
-<br>
+| Project | What it is | Stack |
+|---|---|---|
+| [mini-flow-builder](https://github.com/alembikovm/mini-flow-builder) · [demo](https://mini-flow-builder.vercel.app) | No-code flow builder: drag-and-drop screens, inspector, JSON export, ADR log | React, Zustand, dnd-kit, Zod, Playwright |
+| [wows-ship-encyclopedia](https://github.com/alembikovm/wows-ship-encyclopedia) · [demo](https://wows-ship-encyclopedia.vercel.app) | Ship catalog with filters, search and a virtualized list | Vue 3, Pinia, TanStack Query |
+| [sparring-backend](https://github.com/alembikovm/sparring-backend) | Coding-practice backend with semantic task search on local embeddings | NestJS, Kysely, PostgreSQL + pgvector |
+| [phone-service](https://github.com/alembikovm/phone-service) | Framework-agnostic package with React and Vue bindings | TypeScript, Lerna monorepo |
 
----
+### Contact
 
-#### :hammer_and_wrench: LANGUAGES & TOOLS :
-<div align="center">
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-
-</div>
-</div>
-
----
-
-## Do you want to contact with me? You can contact me through either method below:
-<div id="badges" align="center">
-  <br><br>
-  <a href="https://www.linkedin.com/in/marat-alembikov">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>&nbsp;
-  <a href="mailto:alembikovm@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-blue?style=for-the-badge&logo=gmail&logoColor=white&color=bb001b" alt="Email Badge" />
-  </a>
-  
-  
-  <h2>See you soon!</h2>
-</div>
+[LinkedIn](https://www.linkedin.com/in/marat-alembikov) · [alembikovm@gmail.com](mailto:alembikovm@gmail.com) · [Portfolio](https://marat-alembikov-portfolio.vercel.app)
